@@ -1,0 +1,7 @@
+* {box-sizing: border-box;}
+body {margin: 20px; padding: 0; font-family: Arial;}
+header {background: green; padding: 20px; text-align: center; margin-bottom: 20px;}
+.sidebar {float: left; width: 30%; background: blue; padding: 4%; margin-right: 5%;}
+.main {float: left; width: 65%; background: pink; padding: 4%;}
+.clear {clear: both;}
+footer {background: purple; padding: 20px; text-align: center; margin-top:20px;}
